@@ -1,4 +1,4 @@
-# PythonBibleProject_HealthPotion
+# PythonBibleProject_HelloYou
 
 This is the second project from the course The Python Bible containing concepts of strings and taking inputs from user.
 
